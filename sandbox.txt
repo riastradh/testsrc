@@ -9,4 +9,4 @@ fnord sink sank sunk sonk senk synk swnk
 goodnight world!
 another one
 one commit two commit
-Live from Ottawa, Ontario!
+Live from Ottawa, Ontario.
